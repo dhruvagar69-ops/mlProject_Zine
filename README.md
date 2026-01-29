@@ -5,4 +5,3 @@ The objective of this project is to design and train a Machine Learning
 system capable of detecting DeepFake (spoofed) voice samples and
 distinguishing them from real human speech.
 DataSet used: https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset (ASVspoof 2019)
-
