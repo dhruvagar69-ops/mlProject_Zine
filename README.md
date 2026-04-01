@@ -8,8 +8,6 @@ system capable of detecting DeepFake (spoofed) voice samples and
 distinguishing them from real human speech.
 DataSet used: https://www.kaggle.com/datasets/awsaf49/asvpoof-2019-dataset (ASVspoof 2019).
 
-Note: this is the new repository under the same name "mlProject_Zine", i have deleted previous repository.
-
 The project is based on Classical ML based Classifiers (Logistic Regression, Support Vector Machine (SVM), and
 Random Forest) and not on Deep Learning based Classifiers (CNN).
 
